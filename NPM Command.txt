@@ -1,0 +1,4 @@
+Install-Package CrystalDecisions.CrystalReports.Engine -Version 1.0.0
+Install-Package CrystalDecisions.Shared -Version 1.0.0
+Install-Package CrystalDecisions.Web -Version 1.0.1
+Install-Package CrystalDecisions.ReportSource -Version 1.0.0
